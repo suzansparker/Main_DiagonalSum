@@ -1,4 +1,4 @@
-import java.util.Scanner;
+import java.util.*;
 
 public class Main_DiagonalSum {
     public static int diagonalSum(int arr[][],int n) {
